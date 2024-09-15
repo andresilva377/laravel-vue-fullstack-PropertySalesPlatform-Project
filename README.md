@@ -1,49 +1,20 @@
-<a href="https://www.udemy.com/user/piotr-jura">
-  <p align="center"><img alt="Piotr Jura - Udemy Instructor" src="https://avatars.githubusercontent.com/u/39863283?v=4" align="center" width="200"></p>
-  <h1 align="center">Piotr Jura Udemy Courses</h1>
-  <h2 align="center">Fado Code Camp</h2>
-</a>
+<h1 align="center">Fullstack Property Sales Platform Project from Piotr Jura Course</h1>
 
-<p align="center">
-  High-quality, comprehensive courses for web developers.
-</p>
+<p align="center">Technologies</p>
 
-<p align="center">
-  <a href="#about-the-instructor"><strong>About the Instructor</strong></a> ·
-  <a href="#courses"><strong>Courses</strong></a> ·
-  <a href="#contact-and-links"><strong>Contact & Links</strong></a> ·
-  <a href="#course-resources"><strong>This Course Resources</strong></a>
-</p>
-<br/>
+<div align="center" style="display: inline_block;"><br>
+    <img align="center" alt="Andre-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+    <img align="center" alt="Andre-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
+    <img align="center" alt="Andre-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+    <img align="center" alt="Andre-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+    <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-## About the Instructor
+## About the Project
 
-I am Piotr Jura, a seasoned web developer and a passionate Udemy instructor. With years of experience in JavaScript, TypeScript, Node, PHP, MySQL, Vue, React, and more, I bring practical, real-world knowledge to my students.
+The Property Sales Platform is a single web aplication built with the VILT stack (Laravel, Vue 3, Inertia, Tailwind CSS), on the Piotr Jura course, with the obejetive to elevate my web development skills with VILT stack.<br>
+In this project we use Laravel to handle the backend, Vue 3 Composition API to handle frontend, Inertia to connect frontend and backendm and Tailwind CSS to create layouts and responsive designs.
 
-## Courses
-
-- [Master Nuxt 3 - Full-Stack Complete Guide](https://www.udemy.com/course/master-nuxt-full-stack-complete-guide/?referralCode=4EBA58BFBD39A31A9BE9)
-- [Symfony 6 Framework Hands-On 2023](https://www.udemy.com/course/symfony-framework-hands-on/?referralCode=6750F64C057515A5F787)
-- [Vue 3 Mastery: Firebase & More - Learn by Doing!](https://www.udemy.com/course/vuejs-course/?referralCode=26DAD96DAB47B4602DA3)
-- [Master NestJS - Node.js Framework 2023](https://www.udemy.com/course/master-nestjs-the-javascript-nodejs-framework/?referralCode=C8A3F83982053A5E44C0)
-- [Master Laravel with GraphQL, Vue.js, and Tailwind](https://www.udemy.com/course/master-laravel-with-graphql-vuejs-and-tailwind/?referralCode=CE3B5297B3614EFA884A)
-- [Master Laravel, Vue 3 & Inertia Full Stack 2023](https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/?referralCode=4A6CED7AA1583CB709D6)
-- [Master Laravel 10 for Beginners & Intermediate 2023](https://www.udemy.com/course/laravel-beginner-fundamentals/?referralCode=E86A873AC47FB438D79C)
-- [Symfony API Platform with React Full Stack Masterclass](https://www.udemy.com/course/symfony-api-platform-reactjs-full-stack-masterclass/?referralCode=D2C29D1C641BB0CDBCD4)
-
-## Contact and Links
-
-- **Blog:** [Fado Code Camp](https://fadocodecamp.com/)
-- **LinkedIn:** [Follow Me on LinkedIn](https://www.linkedin.com/in/piotr-j-24250b257/)
-- **GitHub:** You are here! Give me a follow!
-- **Twitter:** [@piotr_jura](https://twitter.com/piotr_jura)
-
-## Course Resources
-
-Coming up!
-
----
-
-<p align="center">
-  <strong>Explore, Learn, and Grow with My Comprehensive Web Development Courses!</strong>
-</p>
+(Description of project features is still under development...🚧🏗️)
