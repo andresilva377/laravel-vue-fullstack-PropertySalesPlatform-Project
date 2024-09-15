@@ -14,7 +14,7 @@
 
 ## About the Project
 
-The Property Sales Platform is a single web aplication built with the VILT stack (Laravel, Vue 3, Inertia, Tailwind CSS), on the Piotr Jura course, with the obejetive to elevate my web development skills with VILT stack.<br>
-In this project we use Laravel to handle the backend, Vue 3 Composition API to handle frontend, Inertia to connect frontend and backendm and Tailwind CSS to create layouts and responsive designs.
+The Property Sales Platform is a single web application built with the VILT stack (Laravel, Vue 3, Inertia, Tailwind CSS), on the Piotr Jura course, intending to elevate my web development skills with the VILT stack.<br>
+In this project we use Laravel to handle the backend, Vue 3 Composition API to handle the frontend, Inertia to connect the frontend and backend, and Tailwind CSS to create layouts and responsive designs.
 
 (Description of project features is still under development...🚧🏗️)
